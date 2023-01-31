@@ -49,7 +49,6 @@ PyGetWindow==0.0.9
 PyJWT==2.4.0
 pymongo==4.1.1
 PyMsgBox==1.0.9
-pyparsing==3.0.8
 pyperclip==1.8.2
 pypiwin32==223
 PyRect==0.2.0
