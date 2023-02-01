@@ -26,7 +26,7 @@ def login_page(request):
 def doLogin(request, **kwargs):
     if request.method != 'POST':
         return HttpResponse("<h4>Denied</h4>")
-#     else:
+    else:
 #         #Google recaptcha
 #         captcha_token = request.POST.get('g-recaptcha-response')
 #         captcha_url = "https://www.google.com/recaptcha/api/siteverify"
